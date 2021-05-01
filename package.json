@@ -1,0 +1,27 @@
+{
+  "name": "fun-sandbox",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "lite": "lite-server",
+    "start": "npm run lite"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kingluddite/fun-sandbox.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kingluddite/fun-sandbox/issues"
+  },
+  "homepage": "https://github.com/kingluddite/fun-sandbox#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  },
+  "dependencies": {
+    "moment": "^2.29.1"
+  }
+}
